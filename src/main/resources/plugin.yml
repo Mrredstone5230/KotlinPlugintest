@@ -1,0 +1,11 @@
+main: me.polishkrowa.kotlintestplugin
+name: KotlinPluginTest
+version: 1.0
+api-version: 1.19
+
+commands:
+  test:
+  launch:
+  heal:
+  boots:
+
